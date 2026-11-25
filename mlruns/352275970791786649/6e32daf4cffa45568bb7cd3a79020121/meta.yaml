@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/OmniCampusProjects/Omnicampus_Final_Project/mlruns/352275970791786649/6e32daf4cffa45568bb7cd3a79020121/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '352275970791786649'
+lifecycle_stage: active
+run_id: 6e32daf4cffa45568bb7cd3a79020121
+run_name: A_Full_ExtraTrees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795540671150
+status: 1
+tags: []
+user_id: voltsy

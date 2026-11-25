@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/OmniCampusProjects/Omnicampus_Final_Project/mlruns/352275970791786649/2b39ae212551482e8bdb7d1382762f8b/artifacts
+end_time: 1795540671128
+entry_point_name: ''
+experiment_id: '352275970791786649'
+lifecycle_stage: active
+run_id: 2b39ae212551482e8bdb7d1382762f8b
+run_name: A_Full_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795540627386
+status: 3
+tags: []
+user_id: voltsy
